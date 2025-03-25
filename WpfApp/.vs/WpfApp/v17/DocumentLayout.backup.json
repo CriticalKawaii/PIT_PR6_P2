@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarga\\Desktop\\WpfApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9961571D-F87D-4018-A413-CBAB7FC69894}|UnitTestProject\\UnitTestProject.csproj|c:\\users\\sarga\\desktop\\wpfapp\\unittestproject\\captchatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9961571D-F87D-4018-A413-CBAB7FC69894}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\captchatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7161F01-7C35-41DA-A358-887ACCF658CB}|WpfApp.csproj|c:\\users\\sarga\\desktop\\wpfapp\\pages\\signinpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{C7161F01-7C35-41DA-A358-887ACCF658CB}|WpfApp.csproj|solutionrelative:pages\\signinpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7161F01-7C35-41DA-A358-887ACCF658CB}|WpfApp.csproj|c:\\users\\sarga\\desktop\\wpfapp\\pages\\signinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7161F01-7C35-41DA-A358-887ACCF658CB}|WpfApp.csproj|solutionrelative:pages\\signinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9961571D-F87D-4018-A413-CBAB7FC69894}|UnitTestProject\\UnitTestProject.csproj|c:\\users\\sarga\\desktop\\wpfapp\\unittestproject\\succsessfulauthorizationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9961571D-F87D-4018-A413-CBAB7FC69894}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\succsessfulauthorizationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9961571D-F87D-4018-A413-CBAB7FC69894}|UnitTestProject\\UnitTestProject.csproj|c:\\users\\sarga\\desktop\\wpfapp\\unittestproject\\authorizationtestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9961571D-F87D-4018-A413-CBAB7FC69894}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\authorizationtestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9961571D-F87D-4018-A413-CBAB7FC69894}|UnitTestProject\\UnitTestProject.csproj|c:\\users\\sarga\\desktop\\wpfapp\\unittestproject\\registrationtestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9961571D-F87D-4018-A413-CBAB7FC69894}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\registrationtestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 219,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorizationTestCases.cs",
+              "DocumentMoniker": "C:\\Users\\sarga\\Desktop\\WpfApp\\UnitTestProject\\AuthorizationTestCases.cs",
+              "RelativeDocumentMoniker": "UnitTestProject\\AuthorizationTestCases.cs",
+              "ToolTip": "C:\\Users\\sarga\\Desktop\\WpfApp\\UnitTestProject\\AuthorizationTestCases.cs",
+              "RelativeToolTip": "UnitTestProject\\AuthorizationTestCases.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:03:53.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationTestCases.cs",
+              "DocumentMoniker": "C:\\Users\\sarga\\Desktop\\WpfApp\\UnitTestProject\\RegistrationTestCases.cs",
+              "RelativeDocumentMoniker": "UnitTestProject\\RegistrationTestCases.cs",
+              "ToolTip": "C:\\Users\\sarga\\Desktop\\WpfApp\\UnitTestProject\\RegistrationTestCases.cs",
+              "RelativeToolTip": "UnitTestProject\\RegistrationTestCases.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:29:41.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SuccsessfulAuthorizationTest.cs",
+              "DocumentMoniker": "C:\\Users\\sarga\\Desktop\\WpfApp\\UnitTestProject\\SuccsessfulAuthorizationTest.cs",
+              "RelativeDocumentMoniker": "UnitTestProject\\SuccsessfulAuthorizationTest.cs",
+              "ToolTip": "C:\\Users\\sarga\\Desktop\\WpfApp\\UnitTestProject\\SuccsessfulAuthorizationTest.cs",
+              "RelativeToolTip": "UnitTestProject\\SuccsessfulAuthorizationTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:23:30.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CaptchaTest.cs",
+              "DocumentMoniker": "C:\\Users\\sarga\\Desktop\\WpfApp\\UnitTestProject\\CaptchaTest.cs",
+              "RelativeDocumentMoniker": "UnitTestProject\\CaptchaTest.cs",
+              "ToolTip": "C:\\Users\\sarga\\Desktop\\WpfApp\\UnitTestProject\\CaptchaTest.cs",
+              "RelativeToolTip": "UnitTestProject\\CaptchaTest.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:23:55.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignInPage.xaml",
+              "DocumentMoniker": "C:\\Users\\sarga\\Desktop\\WpfApp\\Pages\\SignInPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\SignInPage.xaml",
+              "ToolTip": "C:\\Users\\sarga\\Desktop\\WpfApp\\Pages\\SignInPage.xaml",
+              "RelativeToolTip": "Pages\\SignInPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-25T17:47:34.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignInPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sarga\\Desktop\\WpfApp\\Pages\\SignInPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\SignInPage.xaml.cs",
+              "ToolTip": "C:\\Users\\sarga\\Desktop\\WpfApp\\Pages\\SignInPage.xaml.cs",
+              "RelativeToolTip": "Pages\\SignInPage.xaml.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAADwv3YAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:55:39.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
